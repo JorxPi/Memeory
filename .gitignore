@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Visual Studio
 .vs/
 *.vcxproj.user
@@ -15,3 +16,37 @@ x64/
 *.log
 *.suo
 *.user
+=======
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+>>>>>>> ba51eb2cc677ef072954a26f3fd46673a4a422fd
